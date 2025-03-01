@@ -25,13 +25,7 @@ Here are some ideas to get you started:
 ### Olá, pessoal! Sou Moisés Omena. 👋🚀
 Bem-vindos ao meu repositório, onde compartilho projetos e ideias! Sou apaixonado por **Ciência de Dados**, **Business Intelligence**, **Inteligência Artificial** e **Desenvolvimento de Software**.
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=profmoisesomena&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profmoisesomena&layout=compact&theme=dark" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profmoisesomena&theme=github_dark"/>
-</div>
+
 ## Habilidades / Tecnologias
 
 ## Sobre mim
@@ -45,7 +39,13 @@ Bem-vindos ao meu repositório, onde compartilho projetos e ideias! Sou apaixona
 
 
 <!-- e assim por diante, ajustando às suas tecnologias preferidas -->
-
+## 📊 GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=profmoisesomena&show_icons=true&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profmoisesomena&layout=compact&theme=dark" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profmoisesomena&theme=github_dark"/>
+</div>
 
 
 ## Projetos e Atuação 
@@ -53,6 +53,8 @@ Bem-vindos ao meu repositório, onde compartilho projetos e ideias! Sou apaixona
  Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) do Instituto Federal do Espírito Santo (Ifes) – Campus Serra é um espaço dedicado à inovação e à prática colaborativa.
 - [**AgentesES**](https://www.instagram.com/p/DGBLn7-u1ZW)  
 O AgentES é uma iniciativa inovadora que aplica Inteligência Artificial no setor público, desenvolvida em parceria entre o LEDS
+- [**ConectaFapes**]() 
+O projeto “Conecta FAPES: Uma plataforma de apoio à Pesquisa, Desenvolvimento e Inovação” é fruto de uma parceria entre a Fundação de Amparo à Pesquisa e Inovação do Espírito Santo (FAPES) e o Laboratório de Extensão em Desenvolvimento de Soluções (LEDS) do Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (Ifes).
 
 ## Contatos 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prof.moisesomena/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-omena-9ab9791a7/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:profmoisesomena@gmail.com)
