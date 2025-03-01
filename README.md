@@ -24,19 +24,6 @@ Here are some ideas to get you started:
 
 ### Olá, pessoal! Sou Moisés Omena. 👋🚀
 Bem-vindos ao meu repositório, onde compartilho projetos e ideias! Sou apaixonado por **Ciência de Dados**, **Business Intelligence**, **Inteligência Artificial** e **Desenvolvimento de Software**.
-## Sobre mim
-- Desenvolvedor focado em **Ciência de Dados**, **Business Intelligence** e **IA**.
-- Apaixonado por criar soluções que acelerem o ciclo de engenharia de software.
-- Atualmente estudando **CrewAi e LLMs**.
-
-## Habilidades / Tecnologias
-
-<!-- 1) Python -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <!-- 2) LLMs (Large Language Models) --> ![LLMs (Large Language Models)](https://img.shields.io/badge/LLMs-Large%20Language%20Models-brightgreen?style=for-the-badge)<!-- 3) Gemini (badge custom) --> ![Gemini](https://img.shields.io/badge/Gemini-AI-blue?style=for-the-badge) <!-- 4) OpenAI -->![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)<!-- 5) CrewAI (Collaborative Agents, em inglês) -->![CrewAI - Collaborative Agents](https://img.shields.io/badge/CrewAI-Collaborative%20Agents-brightgreen?style=for-the-badge)<!-- 6) OLAP -->![OLAP](https://img.shields.io/badge/OLAP-Analytical%20Processing-9cf?style=for-the-badge)<!-- 7) OLTP -->![OLTP](https://img.shields.io/badge/OLTP-Transactional%20Processing-9cf?style=for-the-badge)<!-- 8) Modelagem de Dados --> ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-Data%20Modeling-blue?style=for-the-badge)<!-- 9) SQL -->![SQL](https://img.shields.io/badge/SQL-006dba?style=for-the-badge&logoColor=white)<!-- 10) PostgreSQL -->![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<!-- 11) Apache Hop -->![Apache Hop](https://img.shields.io/badge/Apache%20Hop-ETL%2FData%20Pipeline-orange?style=for-the-badge)<!-- 12) Engenharia de Software (Projects Management) -->![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-Projects%20Management-blueviolet?style=for-the-badge)
-
-
-
-<!-- e assim por diante, ajustando às suas tecnologias preferidas -->
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -45,6 +32,21 @@ Bem-vindos ao meu repositório, onde compartilho projetos e ideias! Sou apaixona
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profmoisesomena&theme=github_dark"/>
 </div>
+## Habilidades / Tecnologias
+
+## Sobre mim
+- Desenvolvedor focado em **Ciência de Dados**, **Business Intelligence** e **IA**.
+- Apaixonado por criar soluções que acelerem o ciclo de engenharia de software.
+- Atualmente estudando **CrewAi e LLMs**.
+- 
+<!-- 1) Python -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <!-- 2) LLMs (Large Language Models) --> ![LLMs (Large Language Models)](https://img.shields.io/badge/LLMs-Large%20Language%20Models-brightgreen?style=for-the-badge)<!-- 3) Gemini (badge custom) --> ![Gemini](https://img.shields.io/badge/Gemini-AI-blue?style=for-the-badge) <!-- 4) OpenAI -->![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)<!-- 5) CrewAI (Collaborative Agents, em inglês) -->![CrewAI - Collaborative Agents](https://img.shields.io/badge/CrewAI-Collaborative%20Agents-brightgreen?style=for-the-badge)<!-- 6) OLAP -->![OLAP](https://img.shields.io/badge/OLAP-Analytical%20Processing-9cf?style=for-the-badge)<!-- 7) OLTP -->![OLTP](https://img.shields.io/badge/OLTP-Transactional%20Processing-9cf?style=for-the-badge)<!-- 8) Modelagem de Dados --> ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-Data%20Modeling-blue?style=for-the-badge)<!-- 9) SQL -->![SQL](https://img.shields.io/badge/SQL-006dba?style=for-the-badge&logoColor=white)<!-- 10) PostgreSQL -->![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<!-- 11) Apache Hop -->![Apache Hop](https://img.shields.io/badge/Apache%20Hop-ETL%2FData%20Pipeline-orange?style=for-the-badge)<!-- 12) Engenharia de Software (Projects Management) -->![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-Projects%20Management-blueviolet?style=for-the-badge)
+
+
+
+<!-- e assim por diante, ajustando às suas tecnologias preferidas -->
+
+
 
 ## Projetos e Atuação 
 - [**LEDS**](https://www.instagram.com/p/DGoI1eiOLe6/?img_index=1)  
